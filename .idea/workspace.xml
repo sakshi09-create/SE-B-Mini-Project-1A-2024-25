@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f436a45e-e2d9-4f8a-84c5-390cf788d128" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build/built-jar.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/built-jar.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/AdminLogin$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/AdminLogin$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/AdminLogin$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/AdminLogin$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/AdminLogin$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/AdminLogin$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/AdminLogin$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/AdminLogin$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/AdminLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/AdminLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/AdminLogin.form" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/AdminLogin.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn.form" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerCheckIn.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerDetailsBill$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerDetailsBill$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerDetailsBill$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerDetailsBill$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerDetailsBill$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerDetailsBill$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerDetailsBill$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerDetailsBill$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/CustomerDetailsBill.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/CustomerDetailsBill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/adminHome$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/adminHome$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/adminHome$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/adminHome$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/adminHome$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/adminHome$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/adminHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/adminHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/adminHome.form" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/adminHome.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/forgotPassword$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/forgotPassword$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/forgotPassword$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/forgotPassword$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/forgotPassword$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/forgotPassword$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/forgotPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/forgotPassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/forgotPassword.form" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/forgotPassword.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/signup$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/signup$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/signup$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/signup$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/signup$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/signup$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/signup.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/signup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/ui/signup.form" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/ui/signup.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/HotelManagement2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dist/HotelManagement2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/AdminLogin.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/AdminLogin.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/AdminLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/AdminLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/CustomerCheckIn.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/CustomerCheckIn.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/CustomerCheckIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/CustomerCheckIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/CustomerDetailsBill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/CustomerDetailsBill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/adminHome.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/adminHome.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/adminHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/adminHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/forgotPassword.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/forgotPassword.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/forgotPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/forgotPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/signup.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/signup.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/signup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/signup.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2mtXerThMLKyOEDMth3mzD9d1ry" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.adminHome.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dhana/OneDrive/Documents/MySqlConnector-2.3.7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "MySQL"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="adminHome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.adminHome" />
+      <module name="HotelManagement2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.adminHome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f436a45e-e2d9-4f8a-84c5-390cf788d128" name="Changes" comment="" />
+      <created>1727896944665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727896944665</updated>
+      <workItem from="1727896945735" duration="2376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
